@@ -1,0 +1,106 @@
+/* portada-main {
+    background-image: url("https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png");
+} */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+header {
+    width: 270px;
+    margin: 4rem auto;
+    position: relative;
+    text-align: center;
+}
+header img {
+    position: absolute;
+    left: 35px;
+    bottom: -300px;    
+    width: 200px;
+    height: 183px;
+}
+main {
+    position: relative;
+    margin: 0 auto;
+}
+.lenguages-main-container {
+    position: relative;
+    height: 32.5rem;
+    width: 100%;
+    align-content: center;
+}
+.lenguanes-main {
+    position: absolute; 
+    font-size: 1.6rem;
+}
+#lang1 {
+    text-align: center;
+    color: blue;
+    right: 60%;
+    top: 0;
+}
+#lang2 {
+    text-align: center;
+    color: blue;
+    left: 60%;
+    top: 0;
+}
+#lang3 {
+    text-align: center;
+    color: blue;
+    right: 70%;
+    top: 20%;
+}
+#lang4 {
+    text-align: center;
+    color: blue;
+    left: 70%;
+    top: 20%;
+}
+#lang5 {
+    text-align: center;
+    color: blue;
+    left: 72%;
+    top: 40%;
+}
+#lang6 {
+    text-align: center;
+    color: blue;
+    right: 72%;
+    top: 40%;
+}
+#lang7 {
+    text-align: center;
+    color: blue;
+    right: 70%;
+    top: 60%;
+}
+#lang8 {
+    text-align: center;
+    color: blue;
+    left: 70%;
+    top: 60%;
+}
+#lang9 {
+    text-align: center;
+    color: blue;
+    right: 60%;
+    top: 80%;
+}
+#lang10 {
+    text-align: center;
+    color: blue;
+    left: 60%;
+    top: 80%;
+}
+.buscador {
+    position: relative;
+    border: solid 2px black;
+    width: 340px;
+    height: 44px;
+    margin: 0 auto;
+}
+
